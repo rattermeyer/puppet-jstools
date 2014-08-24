@@ -1,4 +1,4 @@
-name    'rat/jstools'
+name    'rattermeyer-jstools'
 version '0.1.0'
 source 'UNKNOWN'
 author 'Richard Attermeyer'
